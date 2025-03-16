@@ -723,6 +723,7 @@ namespace GCRebuilder
         {
             string msg = "Nintendo GameCube images rebuilder v1.1\r\n"
                 + "Created by BSV (bsv798@gmail.com)\r\n"
+                + "Updated by Jas for Kirby Air Ride Online (http://discord.gg/p3rGrcr)\r\n"
                 + "\r\n"
                 + "Supported command line parameters:\r\n"
                 + "    export file/folder from image: iso_path [node_path e file_or_folder]\r\n"

@@ -945,7 +945,7 @@
             this.MainMenuStrip = this.menuStrip;
             this.MaximizeBox = false;
             this.Name = "MainForm";
-            this.Text = "GCRebuilder v1.1";
+            this.Text = "ChopShop - GCRebuilder || Kirby Air Ride Online";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainForm_KeyDown);
             this.cmsTVTOC.ResumeLayout(false);
